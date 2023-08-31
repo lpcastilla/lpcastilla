@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Pérez-Castilla</h1>
-<h3 align="center">A full stack software developer and economist</h3>
+<h3 align="center">A Full Stack Software Developer and Economist</h3>
 
 - 🔭 I’m currently working on [Wallet-Rack](https://github.com/4GeeksAcademy/ccs-43-Proyecto-Final-Finanzas-Personales)
 
